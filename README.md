@@ -1,16 +1,90 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Smart Library Management System
 
-# Run and deploy your AI Studio app
+A modern full-stack Smart Library Management System built using **React**, **TypeScript**, **Node.js**, and **MongoDB**.  
 
-This contains everything you need to run your app locally.
+This system helps libraries digitally manage books, users, borrowing records, fines, and admin operations with a responsive professional UI.
 
-View your app in AI Studio: https://ai.studio/apps/326601c4-b612-4bd0-b8d7-5d8ad73c3b85
+---
 
-## Run Locally
+# 🚀 Tech Stack
 
-**Prerequisites:**  Node.js
+## Frontend
+
+- React.js
+
+- TypeScript
+
+- Vite
+
+- React Router DOM
+
+- Tailwind CSS
+
+- Framer Motion
+
+- Axios
+
+- React Icons
+
+## Backend
+
+- Node.js
+
+- Express.js
+
+- MongoDB Atlas
+
+- Mongoose
+
+- JWT Authentication
+
+- bcryptjs
+
+- multer
+
+- dotenv
+
+- cors
+
+---
+
+# ✨ Features
+
+## User Features
+
+- User Registration & Login
+
+- JWT Authentication
+
+- Browse Available Books
+
+- Search Books
+
+- Borrow Books
+
+- Return Books
+
+- View Borrowing History
+
+- Profile Management
+
+## Admin Features
+
+- Admin Dashboard
+
+- Add New Books
+
+- Edit Books
+
+- Delete Books
+
+- Manage Users
+
+- Manage Borrow Requests
+
+- Upload Book Images
+
+- Fine Management
 
 
 1. Install dependencies:
